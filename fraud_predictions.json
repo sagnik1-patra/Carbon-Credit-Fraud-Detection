@@ -1,0 +1,182 @@
+[
+    {
+        "project_id": 0,
+        "issuer_id": 0,
+        "fraud_flag": "Fraud"
+    },
+    {
+        "project_id": 1,
+        "issuer_id": 1,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 2,
+        "issuer_id": 2,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 3,
+        "issuer_id": 3,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 4,
+        "issuer_id": 4,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 5,
+        "issuer_id": 5,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 6,
+        "issuer_id": 6,
+        "fraud_flag": "Fraud"
+    },
+    {
+        "project_id": 7,
+        "issuer_id": 7,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 8,
+        "issuer_id": 8,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 9,
+        "issuer_id": 9,
+        "fraud_flag": "Fraud"
+    },
+    {
+        "project_id": 10,
+        "issuer_id": 0,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 11,
+        "issuer_id": 1,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 12,
+        "issuer_id": 2,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 13,
+        "issuer_id": 3,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 14,
+        "issuer_id": 4,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 15,
+        "issuer_id": 5,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 16,
+        "issuer_id": 6,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 17,
+        "issuer_id": 7,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 18,
+        "issuer_id": 8,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 19,
+        "issuer_id": 9,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 20,
+        "issuer_id": 0,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 21,
+        "issuer_id": 1,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 22,
+        "issuer_id": 2,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 23,
+        "issuer_id": 3,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 24,
+        "issuer_id": 4,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 25,
+        "issuer_id": 5,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 26,
+        "issuer_id": 6,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 27,
+        "issuer_id": 7,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 28,
+        "issuer_id": 8,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 29,
+        "issuer_id": 9,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 30,
+        "issuer_id": 0,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 31,
+        "issuer_id": 1,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 32,
+        "issuer_id": 2,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 33,
+        "issuer_id": 3,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 34,
+        "issuer_id": 4,
+        "fraud_flag": "Legit"
+    },
+    {
+        "project_id": 35,
+        "issuer_id": 5,
+        "fraud_flag": "Legit"
+    }
+]

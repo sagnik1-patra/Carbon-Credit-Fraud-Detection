@@ -1,0 +1,5 @@
+fraud_detected: 1
+model: Hybrid AIS + GA (GIS)
+optimized_parameters:
+  contamination: 0.01917963205384983
+  n_estimators: 138

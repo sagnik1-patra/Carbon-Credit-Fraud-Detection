@@ -1,0 +1,7 @@
+fraud_detected: 3
+ml:
+- Graph ML
+- Isolation Forest
+- Neural Validation
+project: AI-Driven Carbon Credit Fraud Detection
+records: 36

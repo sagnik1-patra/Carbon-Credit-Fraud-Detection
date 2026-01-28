@@ -1,0 +1,14 @@
+domain: Web3 + ClimateTech
+features_used:
+- issuer_id
+- project_id
+- degree_centrality
+- issuer_connection_count
+labels:
+  Fraud: -1
+  Legit: 1
+ml_technique:
+- Graph ML
+- Isolation Forest
+- Neural Anomaly Detection
+project: AI-Driven Carbon Credit Fraud Detection

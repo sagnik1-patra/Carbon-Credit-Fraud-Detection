@@ -1,0 +1,5 @@
+fraud_detected: 1
+model: Hybrid AIS + HSA (HIS)
+optimized_parameters:
+  contamination: 0.02476785657265429
+  n_estimators: 189

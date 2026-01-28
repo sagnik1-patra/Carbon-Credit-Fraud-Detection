@@ -1,0 +1,5 @@
+fraud_detected: 0
+model: Hybrid GA + PSO (GSO)
+optimized_parameters:
+  contamination: 0.01
+  n_estimators: 106
